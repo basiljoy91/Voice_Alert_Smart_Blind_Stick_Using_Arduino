@@ -1,1 +1,1 @@
-# Smart Walking Sticks
+# Smart Walking Stick
