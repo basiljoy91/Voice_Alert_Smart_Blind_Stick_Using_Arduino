@@ -1,1 +1,1 @@
-# Arduino based smart walking sticks for differently abled
+# Smart Walking Sticks
